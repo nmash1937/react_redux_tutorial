@@ -1,1 +1,1 @@
-# react_redux_tutorial
+Beck React Node tutorial
